@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2495
     height: 1397
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 16859
+  controlID: 1687
   draggingID: 0
 --- !u!114 &6
 MonoBehaviour:
@@ -145,7 +145,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 16860
+  controlID: 1688
   draggingID: 0
 --- !u!114 &7
 MonoBehaviour:
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 50}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 16861
+  controlID: 1689
   draggingID: 0
 --- !u!114 &8
 MonoBehaviour:
@@ -191,7 +191,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 788
+    width: 1045
     height: 775
   m_MinSize: {x: 201, y: 226}
   m_MaxSize: {x: 4001, y: 4026}
@@ -216,9 +216,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 788
+    x: 1045
     y: 0
-    width: 713
+    width: 456
     height: 775
   m_MinSize: {x: 202, y: 226}
   m_MaxSize: {x: 4002, y: 4026}
@@ -330,9 +330,9 @@ MonoBehaviour:
     m_TextWithWhitespace: "Game\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 853
+    x: 1110
     y: 79
-    width: 711
+    width: 454
     height: 749
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -387,10 +387,10 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
-      width: 711
+      width: 454
       height: 728
-    m_Scale: {x: 0.27773437, y: 0.27773437}
-    m_Translation: {x: 355.5, y: 364}
+    m_Scale: {x: 0.17734376, y: 0.17734376}
+    m_Translation: {x: 227, y: 364}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -398,12 +398,12 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -1280
-      y: -1310.6049
+      y: -2052.511
       width: 2560
-      height: 2621.2097
+      height: 4105.022
     m_MinimalGUI: 1
-  m_defaultScale: 0.27773437
-  m_LastWindowPixelSize: {x: 711, y: 749}
+  m_defaultScale: 0.17734376
+  m_LastWindowPixelSize: {x: 454, y: 749}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -433,7 +433,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 65
     y: 79
-    width: 787
+    width: 1044
     height: 749
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -1087,9 +1087,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -0.15025583, y: 1.3333166, z: -0.0540118}
+    m_Target: {x: -1.4955602, y: 2.789378, z: -0.098562166}
     speed: 2
-    m_Value: {x: -0.22097927, y: 1.287873, z: -0.05536179}
+    m_Value: {x: -1.4955602, y: 2.789378, z: -0.098562166}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1139,9 +1139,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 4.61769
+    m_Target: 8.938461
     speed: 2
-    m_Value: 4.8352776
+    m_Value: 8.938461
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1283,9 +1283,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 96b60000
       m_LastClickedID: 0
-      m_ExpandedIDs: bea2ffff5af1ffff0cfbffff
+      m_ExpandedIDs: 0cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1357,7 +1357,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/00.Work/koori/01.Scripts/UI
+    - Assets/00.Work/koori/02.Sprites/UI/Basic_GUI_Bundle
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1367,16 +1367,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/00.Work/koori/01.Scripts/UI
+  - Assets/00.Work/koori/02.Sprites/UI/Basic_GUI_Bundle
   m_LastFoldersGridSize: -1
   m_LastProjectPath: E:\unity_project\DevLabBall
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 175}
-    m_SelectedIDs: c0c10000
-    m_LastClickedID: 49600
-    m_ExpandedIDs: 0000000008ae00000aae00000cae0000f2af000088b000006cb50000e8bf000000ca9a3bffffff7f
+    m_SelectedIDs: bab10000
+    m_LastClickedID: 45498
+    m_ExpandedIDs: 000000003eb0000040b0000042b00000b2b00000b6b1000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1405,7 +1405,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000008ae00000aae00000cae000000ca9a3bffffff7f
+    m_ExpandedIDs: 000000003eb0000040b0000042b0000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1433,7 +1433,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000f0620000d062000014630000406c000082700000607000007202000040810000469500008c0200008a020000747b000002a2000006a20000ea9d0000629a000076c00000428b000062740000a07b0000f80200003473000054730000527000001c8200001e82000004760000e0730000a6020000bcb00000a0b00000fcb10000ecb100008cae00001abb000092c400005ebe000062be00005abe0000b4d00000e0f2ffff54d70000d2c2000038c10000cec900000000000024c80000bacb0000d6bd000076c2000040c10000ecbc000000bb0000bac20000eed300003ed100004ad40000c6ae00009296010050c00000eec60000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1660,257 +1660,6 @@ MonoBehaviour:
     m_ContainerData: []
     m_OverlaysVisible: 1
   m_WidgetStates:
-    m_Keys:
-    - Display Stats -> Frame Stats
-    - Display Stats -> Bottlenecks
-    - Display Stats -> Detailed Stats
-    - Display Stats -> Detailed Stats -> Update every second with average
-    - Display Stats -> Detailed Stats -> Hide empty scopes
-    - Display Stats -> Detailed Stats -> Profiling Scopes
-    - Frequently Used -> Rendering Debug
-    - Frequently Used -> Rendering Debug -> Map Overlays
-    - Frequently Used -> Rendering Debug -> STP Debug Views
-    - Frequently Used -> Rendering Debug ->  -> Map Size
-    - Frequently Used -> Rendering Debug -> HDR
-    - Frequently Used -> Rendering Debug -> MSAA
-    - Frequently Used -> Rendering Debug -> TAA Debug Mode
-    - Frequently Used -> Rendering Debug -> Post-processing
-    - Frequently Used -> Rendering Debug -> Additional Wireframe Modes
-    - Frequently Used -> Rendering Debug -> Overdraw Mode
-    - Frequently Used -> Rendering Debug ->  -> Max Overdraw Count
-    - Frequently Used -> Rendering Debug -> Mipmap Streaming -> Disable Mip Caching
-    - Frequently Used -> Rendering Debug -> Mipmap Streaming -> Debug View
-    - Frequently Used -> Rendering Debug -> Mipmap Streaming ->  -> Debug Opacity
-    - Frequently Used -> Rendering Debug -> Mipmap Streaming ->  -> Material Texture
-      Slot
-    - Frequently Used -> Rendering Debug -> Mipmap Streaming ->  -> Combined per
-      Material
-    - Frequently Used -> Rendering Debug -> Mipmap Streaming ->  ->  -> Material
-      Texture Slot
-    - Frequently Used -> Rendering Debug -> Mipmap Streaming ->  ->  -> Display Status
-      Codes
-    - Frequently Used -> Rendering Debug -> Mipmap Streaming ->  -> Terrain Texture
-    - Frequently Used -> Rendering Debug -> Mipmap Streaming ->  -> Activity Timespan
-    - Frequently Used -> Material Filters
-    - Frequently Used -> Material Filters -> Material Override
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Filter
-      Rendering Layers by Light
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Use
-      Light's Shadow Layer Mask
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Filter
-      Layers
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Default
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 1
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 2
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 3
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 4
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 5
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 6
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 7
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 8
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 9
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 10
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 11
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 12
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 13
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 14
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 15
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 16
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 17
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 18
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 19
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 20
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 21
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 22
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 23
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 24
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 25
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 26
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 27
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 28
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 29
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 30
-    - Frequently Used -> Material Filters -> Rendering Layer Masks Settings -> Layers
-      Color -> Unused Rendering Layer 31
-    - Frequently Used -> Material Filters -> Vertex Attribute
-    - Frequently Used -> Lighting Debug Modes
-    - Frequently Used -> Lighting Debug Modes -> Lighting Debug Mode
-    - Frequently Used -> Lighting Debug Modes -> HDR Debug Mode
-    - Frequently Used -> Lighting Debug Modes -> Lighting Features
-    - Rendering -> Pixel Validation
-    - Rendering -> Pixel Validation -> Pixel Validation Mode
-    - Rendering -> Pixel Validation -> Pixel Range Settings -> Channels
-    - Rendering -> Pixel Validation -> Pixel Range Settings -> Value Range Min
-    - Rendering -> Pixel Validation -> Pixel Range Settings -> Value Range Max
-    - Rendering -> HDR Output
-    - Material -> Material Validation
-    - Material -> Material Validation -> Material Validation Mode
-    - Material -> Material Validation -> Albedo Settings -> Validation Preset
-    - Material -> Material Validation -> Albedo Settings -> Target Color
-    - Material -> Material Validation -> Albedo Settings -> Min Luminance
-    - Material -> Material Validation -> Albedo Settings -> Max Luminance
-    - Material -> Material Validation -> Albedo Settings -> Hue Tolerance
-    - Material -> Material Validation -> Albedo Settings -> Saturation Tolerance
-    - Material -> Material Validation -> Metallic Settings -> Min Value
-    - Material -> Material Validation -> Metallic Settings -> Max Value
-    - GPU Resident Drawer -> Occlusion Culling -> Occlusion Test Overlay
-    - GPU Resident Drawer -> Occlusion Culling -> Occlusion Test Overlay Count Visible
-    - GPU Resident Drawer -> Occlusion Culling -> Override Occlusion Test To Always
-      Pass
-    - GPU Resident Drawer -> Occlusion Culling -> Occluder Context Stats
-    - GPU Resident Drawer -> Occlusion Culling -> Occluder Debug View
-    - GPU Resident Drawer -> Occlusion Culling -> Occluder Debug View Index
-    - GPU Resident Drawer -> Occlusion Culling -> Occluder Debug View Range Min
-    - GPU Resident Drawer -> Occlusion Culling -> Occluder Debug View Range Max
-    - GPU Resident Drawer -> Occlusion Context Stats
-    - GPU Resident Drawer -> GPU Resident Drawer Settings -> Display Culling Stats
-    - GPU Resident Drawer -> Instance Culler Stats
-    - GPU Resident Drawer -> Instance Culler Stats -> Per View Stats
-    - GPU Resident Drawer -> Instance Culler Stats -> Occlusion Culling Events
-    - Render Graph -> URPRenderGraph Render Graph -> Clear Render Targets At Creation
-    - Render Graph -> URPRenderGraph Render Graph -> Clear Render Targets When Freed
-    - Render Graph -> URPRenderGraph Render Graph -> Disable Pass Culling
-    - Render Graph -> URPRenderGraph Render Graph -> Immediate Mode
-    - Render Graph -> URPRenderGraph Render Graph -> Enable Logging
-    - Volume -> Camera
-    - Volume -> Component
-    m_Values:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
+    m_Keys: []
+    m_Values: []
   m_Settings: {fileID: 0}
