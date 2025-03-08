@@ -1,6 +1,7 @@
 using System;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.InputSystem;
 using Update = UnityEngine.PlayerLoop.Update;
 
@@ -18,6 +19,11 @@ public class PlayerMovement : MonoBehaviour
     private void Update()
     {
         Move();
+    }
+    [SerializeField] UnityEvent onCollsiionEnter = new UnityEvent();
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        onCollsiionEnter.Invoke();
     }
 
     private void FixedUpdate()
