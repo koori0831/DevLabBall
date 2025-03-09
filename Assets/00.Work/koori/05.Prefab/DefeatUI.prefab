@@ -130,7 +130,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Title
+          m_StringArgument: Lobby
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &7563404893018008144
@@ -198,7 +198,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\uD0C0\uC774\uD2C0"
+  m_text: "\uB85C\uBE44"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 7d0228cc899eb044984254260ea83b5c, type: 2}
   m_sharedMaterial: {fileID: -7275452521500404138, guid: 7d0228cc899eb044984254260ea83b5c, type: 2}
@@ -286,7 +286,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &8383252510446757155
 RectTransform:
   m_ObjectHideFlags: 0

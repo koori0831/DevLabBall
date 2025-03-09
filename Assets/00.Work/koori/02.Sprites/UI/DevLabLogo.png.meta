@@ -1,16 +1,49 @@
 fileFormatVersion: 2
-guid: 17caccab25a1d7345b60af1c20625143
+guid: ca71f4874fc81ae499e36b0963bd6c05
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7833089830391911488
-    second: BlockTiles_0
+      213: 7279854489968022799
+    second: DevLabLogo_0
   - first:
-      213: -3511163731756384453
-    second: BlockTiles_1
+      213: -4665338352090351472
+    second: DevLabLogo_1
   - first:
-      213: -3817897634532290561
-    second: BlockTiles_2
+      213: 6698777739829950754
+    second: DevLabLogo_2
+  - first:
+      213: 8062754805337855556
+    second: DevLabLogo_3
+  - first:
+      213: 3159714576474382425
+    second: DevLabLogo_4
+  - first:
+      213: 6680700962739186059
+    second: DevLabLogo_5
+  - first:
+      213: -8512489191948238981
+    second: DevLabLogo_6
+  - first:
+      213: 5379203531608649387
+    second: DevLabLogo_7
+  - first:
+      213: -6824637296821529867
+    second: DevLabLogo_8
+  - first:
+      213: 6340379749136197100
+    second: DevLabLogo_9
+  - first:
+      213: 3546848259179485849
+    second: DevLabLogo_10
+  - first:
+      213: 883264534605208613
+    second: DevLabLogo_11
+  - first:
+      213: 8604704612365597302
+    second: DevLabLogo_12
+  - first:
+      213: 8622923997697111556
+    second: DevLabLogo_13
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -43,7 +76,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -52,12 +85,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -78,7 +111,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 512
+    maxTextureSize: 1024
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -106,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BlockTiles_0
+      name: DevLabLogo_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 96
-        width: 32
-        height: 32
+        x: 58
+        y: 562
+        width: 72
+        height: 88
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,20 +154,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0441c3203b9b4bc60800000000000000
-      internalID: 7833089830391911488
+      spriteID: f05931b961d370560800000000000000
+      internalID: 7279854489968022799
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlockTiles_1
+      name: DevLabLogo_1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 96
-        width: 32
-        height: 32
+        x: 112
+        y: 416
+        width: 100
+        height: 202
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,20 +176,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b3ffc6c5037d54fc0800000000000000
-      internalID: -3511163731756384453
+      spriteID: 098f5ae9c73614fb0800000000000000
+      internalID: -4665338352090351472
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlockTiles_2
+      name: DevLabLogo_2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 96
-        width: 32
-        height: 32
+        x: 513
+        y: 416
+        width: 131
+        height: 202
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -165,272 +198,250 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fff06e8545a140bc0800000000000000
-      internalID: -3817897634532290561
+      spriteID: 229bbdbdcd6d6fc50800000000000000
+      internalID: 6698777739829950754
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlockTiles_3
+      name: DevLabLogo_3
       rect:
         serializedVersion: 2
-        x: 96
-        y: 96
-        width: 32
-        height: 32
+        x: 700
+        y: 601
+        width: 21
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6cbce407127c173428f784d7082fb645
-      internalID: 809576173
+      spriteID: 4469c33f6c8a4ef60800000000000000
+      internalID: 8062754805337855556
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlockTiles_4
+      name: DevLabLogo_4
       rect:
         serializedVersion: 2
-        x: 128
-        y: 96
-        width: 32
-        height: 32
+        x: 716
+        y: 618
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 3940bf7d94db07c4c85a130432a8561f
-      internalID: 1859239937
+      spriteID: 950216a9aaf89db20800000000000000
+      internalID: 3159714576474382425
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlockTiles_5
+      name: DevLabLogo_5
       rect:
         serializedVersion: 2
-        x: 0
-        y: 64
-        width: 32
-        height: 32
+        x: 808
+        y: 416
+        width: 134
+        height: 202
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 8a584333e84ebb6478810894bb8daa7f
-      internalID: 420926734
+      spriteID: b89eda6312e96bc50800000000000000
+      internalID: 6680700962739186059
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlockTiles_6
+      name: DevLabLogo_6
       rect:
         serializedVersion: 2
-        x: 32
-        y: 64
-        width: 32
-        height: 32
+        x: 222
+        y: 415
+        width: 135
+        height: 163
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: fb6ea89f18a44924689c20edcddf4d83
-      internalID: -1129024576
+      spriteID: b7fb2975e209dd980800000000000000
+      internalID: -8512489191948238981
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlockTiles_7
+      name: DevLabLogo_7
       rect:
         serializedVersion: 2
-        x: 64
-        y: 64
-        width: 32
-        height: 32
+        x: 712
+        y: 578
+        width: 25
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 51aa5250fea99144cad76e84ee1218b2
-      internalID: -7543124
+      spriteID: bae6f0c9c15c6aa40800000000000000
+      internalID: 5379203531608649387
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlockTiles_8
+      name: DevLabLogo_8
       rect:
         serializedVersion: 2
-        x: 96
-        y: 64
-        width: 32
-        height: 32
+        x: 730
+        y: 415
+        width: 75
+        height: 163
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 650301cf81d12a34a94c497238894bcc
-      internalID: 2114770823
+      spriteID: 5f2121a79840a41a0800000000000000
+      internalID: -6824637296821529867
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlockTiles_9
+      name: DevLabLogo_9
       rect:
         serializedVersion: 2
-        x: 128
-        y: 64
-        width: 32
-        height: 32
+        x: 74
+        y: 415
+        width: 35
+        height: 144
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: e701d704e2b9860408497ce2cb42a520
-      internalID: 980877748
+      spriteID: ce5e7500acd8df750800000000000000
+      internalID: 6340379749136197100
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlockTiles_10
+      name: DevLabLogo_10
       rect:
         serializedVersion: 2
-        x: 0
-        y: 32
-        width: 32
-        height: 32
+        x: 356
+        y: 416
+        width: 95
+        height: 161
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 9d57f2002f7c78f45a3bc0cd0eee1168
-      internalID: -1793780042
+      spriteID: 99a1b9023bfe83130800000000000000
+      internalID: 3546848259179485849
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlockTiles_11
+      name: DevLabLogo_11
       rect:
         serializedVersion: 2
-        x: 32
-        y: 32
-        width: 32
-        height: 32
+        x: 434
+        y: 424
+        width: 71
+        height: 153
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 3724eace1ff9eda4b904a6a619305d48
-      internalID: -1879125920
+      spriteID: 52c18db1a6cf14c00800000000000000
+      internalID: 883264534605208613
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlockTiles_12
+      name: DevLabLogo_12
       rect:
         serializedVersion: 2
-        x: 64
-        y: 32
-        width: 32
-        height: 32
+        x: 649
+        y: 417
+        width: 80
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 4148fcef81776194fa36c8be42f0b92c
-      internalID: 1911854403
+      spriteID: 67a7739514d0a6770800000000000000
+      internalID: 8604704612365597302
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlockTiles_13
+      name: DevLabLogo_13
       rect:
         serializedVersion: 2
-        x: 96
-        y: 32
-        width: 32
-        height: 32
+        x: 703
+        y: 462
+        width: 29
+        height: 66
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 62beb4f0a48bb604594e00f9ade3d3b9
-      internalID: -1872404329
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BlockTiles_14
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 570b492cacacff84b9a16f30ffaa54a0
-      internalID: -1292710933
+      spriteID: 4067def80b7caa770800000000000000
+      internalID: 8622923997697111556
       vertices: []
       indices: 
       edges: []
@@ -439,7 +450,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: ecb5905f7a777de4d812e5210bacb13a
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -449,21 +460,20 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      BlockTiles_0: 7833089830391911488
-      BlockTiles_1: -3511163731756384453
-      BlockTiles_10: -1793780042
-      BlockTiles_11: -1879125920
-      BlockTiles_12: 1911854403
-      BlockTiles_13: -1872404329
-      BlockTiles_14: -1292710933
-      BlockTiles_2: -3817897634532290561
-      BlockTiles_3: 809576173
-      BlockTiles_4: 1859239937
-      BlockTiles_5: 420926734
-      BlockTiles_6: -1129024576
-      BlockTiles_7: -7543124
-      BlockTiles_8: 2114770823
-      BlockTiles_9: 980877748
+      DevLabLogo_0: 7279854489968022799
+      DevLabLogo_1: -4665338352090351472
+      DevLabLogo_10: 3546848259179485849
+      DevLabLogo_11: 883264534605208613
+      DevLabLogo_12: 8604704612365597302
+      DevLabLogo_13: 8622923997697111556
+      DevLabLogo_2: 6698777739829950754
+      DevLabLogo_3: 8062754805337855556
+      DevLabLogo_4: 3159714576474382425
+      DevLabLogo_5: 6680700962739186059
+      DevLabLogo_6: -8512489191948238981
+      DevLabLogo_7: 5379203531608649387
+      DevLabLogo_8: -6824637296821529867
+      DevLabLogo_9: 6340379749136197100
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
